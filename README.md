@@ -1,0 +1,3 @@
+# PHP Closure Scope Bug
+
+This repository demonstrates a common yet subtle bug in PHP related to variable scope within closures. The `bug.php` file contains the erroneous code, while `bugSolution.php` provides the corrected version.  The issue arises from improper handling of variable scope when accessing variables from the parent function within a closure.  The README explains the problem and its solution.
